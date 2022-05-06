@@ -1,6 +1,7 @@
+# Research Opportunity at the University of Minnesota
+
 ## Computational Understanding of Narrative Engagement
 
-## Research Opportunity at the University of Minnesota
 
 Do you enjoy reading fiction? We are interested in studying how text in stories affects readers’ engagement in order to improve natural language processing (NLP) models.
 
