@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# Computational Understanding of Narrative Engagement
 
-You can use the [editor on GitHub](https://github.com/minnesotanlp/reader_engagement/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Research Opportunity at the University of Minnesota
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Do you enjoy reading fiction? We are interested in studying how text in stories affects readers’ engagement in order to improve natural language processing (NLP) models.
 
-### Markdown
+### Eligibility
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Adult 18 or older, English speaking, with normal or corrected-to-normal vision.
 
-```markdown
-Syntax highlighted code block
+### Study
 
-# Header 1
-## Header 2
-### Header 3
+Participants will read two short stories and periodically answer comprehension questions. The data collected during this experiment is gaze data, i.e., the focal coordinates of the pupil on the display screen, as well as pupil diameter and responses to comprehension questions. Data is sampled at a rate of 2000Hz by the eye tracking machine. This work is conducted under PI, Prof. Dongyeop Kang
 
-- Bulleted
-- List
+### Payment
+Paid for the time spent via Amazon gift card with $15/hr value
 
-1. Numbered
-2. List
+### Location
 
-**Bold** and _Italic_ and `Code` text
+Kenneth H. Keller Hall, 200 Union St SE,
 
-[Link](url) and ![Image](src)
-```
+Minneapolis, MN 55455
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Contact Info
 
-### Jekyll Themes
+Study Coordinator: Kelsey Neis
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/minnesotanlp/reader_engagement/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Email: neis@umn.edu
