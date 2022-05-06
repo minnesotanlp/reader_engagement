@@ -1,4 +1,4 @@
-# Computational Understanding of Narrative Engagement
+## Computational Understanding of Narrative Engagement
 
 ## Research Opportunity at the University of Minnesota
 
