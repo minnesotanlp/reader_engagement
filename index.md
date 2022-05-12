@@ -18,7 +18,7 @@ Paid for the time spent via Amazon gift card with $15/hr value
 
 ### Location
 
-Kenneth H. Keller Hall, 200 Union St SE,
+[Kenneth H. Keller Hall](https://campusmaps.umn.edu/kenneth-h-keller-hall), 200 Union St SE,
 
 Minneapolis, MN 55455
 
