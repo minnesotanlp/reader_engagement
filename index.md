@@ -22,6 +22,10 @@ Paid for the time spent via Amazon gift card with $15/hr value
 
 Minneapolis, MN 55455
 
+### Timeframe
+
+June 1 - August 1, 2022
+
 ### Contact Info
 
 Study Coordinator: Kelsey Neis
