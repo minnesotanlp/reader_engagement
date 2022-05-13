@@ -29,3 +29,7 @@ Study Coordinator: Kelsey Neis
 Email: neis@umn.edu
 
 If interested, please fill out [this form](https://forms.gle/KSsGSPTYu8XCU4mZ7) or email the study coordinator.
+
+### Other opportunities
+
+You may also be interested in [this study](https://minnesotanlp.github.io/text_style/) on human style perception.
