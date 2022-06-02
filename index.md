@@ -18,6 +18,8 @@ Paid for the time spent via Amazon gift card with $15/hr value
 
 ### Location
 
+This is an **in person** study, taking place on the University of Minnesota, Twin Cities campus. More details provided on booking a session.
+
 [Kenneth H. Keller Hall](https://campusmaps.umn.edu/kenneth-h-keller-hall), 200 Union St SE,
 
 Minneapolis, MN 55455
