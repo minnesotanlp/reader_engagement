@@ -26,7 +26,8 @@ Minneapolis, MN 55455
 
 ### Timeframe
 
-June 1 - August 1, 2022
+- June 1 - August 4, 2022
+- September 1 - October 31, 2022
 
 ### Contact Info
 
